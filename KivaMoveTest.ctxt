@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=KivaMoveTest
+comment1.params=
+comment1.target=void\ testMotorLifetime()
+comment2.params=
+comment2.target=void\ testDrop()
+comment3.params=
+comment3.target=void\ testbinCollision()
+comment4.params=
+comment4.target=void\ testMoveOutOfBounds()
+comment5.params=
+comment5.target=void\ testObstacle()
+comment6.params=
+comment6.target=void\ testForwardFromUp()
+comment7.params=a\ b
+comment7.target=boolean\ sameLocation(edu.duke.Point,\ edu.duke.Point)
+comment8.params=testName\ actual\ expectLocation\ expectDirection\ expectCarry\ expectDropped
+comment8.target=void\ verifyKivaState(java.lang.String,\ Kiva,\ edu.duke.Point,\ FacingDirection,\ boolean,\ boolean)
+numComments=9
